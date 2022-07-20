@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+input{
+    outline: none;
+}
+
+/* Start */
+
+.fiverr{
+    gap: 5px;
+}
+
+.fiverr .my-3{
+    flex: 1;
+}
+
+.counter h1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+}
